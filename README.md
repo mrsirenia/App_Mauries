@@ -4,8 +4,8 @@ MCU Love Records berisi daftar nama-nama aktor dan aktris Marvel Cinematic Unive
 
 # komponen yang digunakan 
 - [x] Intent
-- [x] Recycler View
-- [x] Basic layout
-- [x] Data in array
+- [x] Activity
+- [x] View
+- [x] ViewGroup
 
 made with :heart: by [@mrsirenia](https://www.instagram.com/mrsirenia/)
